@@ -43,7 +43,7 @@ public class Main {
         printSomething(calculateAverage(integers));
 //        printSomething(calculateAverage(strings));
 
-        List<Number> numbers = List.of(1, 2, 3);
+        List<Number> numbers = List.of(1, 2, 3.5);
 
         printSuperInteger(integers);
         printSuperInteger(numbers);
